@@ -1,0 +1,116 @@
+.backguond-1{
+   
+    width: 70%;
+    background-color:#fff2cc;
+    display: flex;
+    margin: 40px auto;
+    justify-content: space-between;
+    padding: 0px 15px;
+    
+}
+.one{
+    display: flex;
+    
+    
+}
+.backguond-one{
+    background-color: #ffcccc;
+    width: 45px;
+    padding: 10px 15px;
+    border: 1px solid black;
+    margin: 10px 0px
+}
+.backguond-one-1{
+    background-color: #ffcccc;
+    width: 45px;
+    padding: 10px 15px;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    margin: 10px 0px
+    
+}
+.backguond-div{
+    border: 1px solid black;
+    background-color: #cdeb8b;
+    width: 95px;
+    margin: 10px 0;
+    font-weight: bolder;
+}
+               /* bài 2 */
+.backguond-2{
+   display: flex;
+   justify-content: space-between;
+   background-color: #fff2cc;
+    width: 73%;
+    margin: 0 auto 40px;
+}   
+.backguond-two  {
+   
+    width: 45px;
+    padding: 10px 15px;
+   
+    margin: 10px 0px
+}  
+.backguond-two-1{
+    background-color:#d5e8d4;
+    width: 45px;
+    padding: 10px 15px;
+    border: 1px solid black;
+    
+    margin: 10px 15px 10px 0;
+}  
+.backguond-div-1{
+    border: 1px solid black;
+    background-color: #cdeb8b;
+    width: 60px;
+    margin: 10px 15px;
+    font-weight: bolder;
+}  
+.backguond-h2 {
+    margin: 10px 0px;
+    padding: 7px 0;
+}  
+#backguond{
+    display: flex;
+} 
+/* bài 3 */
+.backguond-two-3{
+   
+    padding: 10px 15px;
+   
+    margin: 10px 0px
+}
+.backguond-two-3-1{
+    background-color:#d5e8d4;
+    width: 12px;
+    padding: 10px 15px;
+    border: 1px solid black;
+    height: 19px;
+    margin: 10px 0 10px 0;
+    border-radius: 50%;
+    /* opacity: 0; */
+}
+/* bài4 */
+.backguond-two-3-4{
+    background-color:#d5e8d4;
+    width: 12px;
+    padding: 10px 15px;
+    border: 1px solid black;
+    height: 19px;
+    margin: 10px 20px;
+    border-radius: 50%;
+}
+i{
+    margin: auto 20px;
+   
+}
+#icon{
+    margin: 14px 21px;
+}
+.hell{
+    display: flex;
+}
+h3{
+    margin: -5px 10px
+}
