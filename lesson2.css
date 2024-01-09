@@ -1,0 +1,38 @@
+.container{
+    width:400px;
+    height:500px;
+    margin:auto;
+
+
+}
+.text-header{
+
+    background-color: #fff2cc;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 400px;
+    text-align: center;
+    margin: 30px 0 10px 0;
+}
+
+.text-side{
+    background-color: #d5e8d4;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    width: 100px;
+    height: 200px;
+    margin:0px 10px 0 0  ;
+    padding: 80px;
+
+}
+.text-content{
+
+    background-color: #f8cecc;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 285px;
+    height: 200px;
+    text-align: center;
+    padding: 80px;
+}
